@@ -1,4 +1,3 @@
-# 2022 South African Developer Survey
 A 2022 Stack Overflow Developer Survey with a focus on South Africa.
 
 I remember hearing about Big Data, Machine Learning, Artificial Intelligence and how it was revolutionising, not just the Information Technology fields, but each and every industry you could imagine! from Farming all the way to Manufacturing. So as a "Tech Geek" I couldn't wait to get my hands dirty and dig deep into this fascinating new field that’s taking the world by storm, I just couldn't be left behind!
