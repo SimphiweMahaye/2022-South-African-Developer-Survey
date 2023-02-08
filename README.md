@@ -14,5 +14,11 @@ But! the dataset had one problem, although it was a global survey, conducted all
 
 So, I sought out to make that my mission.
 
+Luckily the initial Dataset is stored on the Stackoverflow website as a CSV file,
+so my initial mission starts in here:
 
 [Data Collection, Normalising & Wrangling](https://github.com/SimphiweMahaye/2022-South-African-Developer-Survey/blob/main/1_Data_Collection%2C_Normalising_%26_Wrangling.ipynb)
+
+After having normalised the data, I then proceed to the visualisation part in order to extract our insights. Which is found here :
+
+[Data Analysis & Visualisation](https://github.com/SimphiweMahaye/2022-South-African-Developer-Survey/blob/main/2_Data_Analysis_%26_Visualisation.ipynb)
