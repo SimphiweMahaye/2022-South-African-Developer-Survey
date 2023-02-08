@@ -13,3 +13,6 @@ It was the perfect dataset to set me on the right track, it would guarantee that
 But! the dataset had one problem, although it was a global survey, conducted all over the world on a lot of countries, the visualisations and analyses only focused on the United States. I needed my data to be specifically based on South Africa.
 
 So, I sought out to make that my mission.
+
+
+[a link]https://github.com/SimphiweMahaye/2022-South-African-Developer-Survey/blob/main/1_Data_Collection%2C_Normalising_%26_Wrangling.ipynb
