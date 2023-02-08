@@ -15,4 +15,4 @@ But! the dataset had one problem, although it was a global survey, conducted all
 So, I sought out to make that my mission.
 
 
-[a link]https://github.com/SimphiweMahaye/2022-South-African-Developer-Survey/blob/main/1_Data_Collection%2C_Normalising_%26_Wrangling.ipynb
+[Data Collection, Normalising & Wrangling](https://github.com/SimphiweMahaye/2022-South-African-Developer-Survey/blob/main/1_Data_Collection%2C_Normalising_%26_Wrangling.ipynb)
